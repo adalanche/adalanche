@@ -24,7 +24,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=postgreSQL&logoColor=000000)
 ![Slack](https://img.shields.io/badge/-Slack-FFFFFF?style=for-the-badge&logo=Slack&logoColor=800080)
 
-### Testing Documentation 📑📎
+### Testing Documentation 📑
 ---
 
 - [Test Cases for Web](https://github.com/adalanche/Test_Cases_for_WEB)
