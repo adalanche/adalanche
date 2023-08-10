@@ -24,15 +24,15 @@
 ![SQL](https://img.shields.io/badge/-SQL-FFE4C4?style=for-the-badge&logo=postgreSQL&logoColor=000000)
 ![Slack](https://img.shields.io/badge/-Slack-FFE4C4?style=for-the-badge&logo=Slack&logoColor=800080)
 
-### Testing Documentation 
+### Testing Documentation 📑📎
 ---
 
 - [Test Cases for Web](https://github.com/adalanche/Test_Cases_for_WEB)
 - [Test Cases for Mobile Applications](https://github.com/adalanche/Test_Cases_for_Mobile_App)
-- Checklists
-- Checklists for API
-- Bug Reports
-- SQL Queries
+- [Checklists](https://github.com/adalanche/Checklists)
+- [Checklists for API](https://github.com/adalanche/Checklists_for_API)
+- [Bug Reports](https://github.com/adalanche/Bug_Reports)
+- [SQL Queries]()
 
 
 
