@@ -2,18 +2,38 @@
     <img src="https://i.ibb.co/T23bzGj/business-card.png" alt="business-card" width="2080">
 </div>
 
+<div align="center">
+    <h4>I'm junior QA Engineer 🔎🐞</h4>
+</div>
 
-<!--
-**adalanche/adalanche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Tools 🛠️
+---
+![Postman](https://img.shields.io/badge/-Postman-FFE4C4?style=for-the-badge&logo=postman&logoColor=23F7DF1E)
+![Figma](https://img.shields.io/badge/-Figma-FFE4C4?style=for-the-badge&logo=figma&logoColor=FF00FF)
+![Charles Proxy](https://img.shields.io/badge/-Charles-FFE4C4?style=for-the-badge&logo=charles&logoColor=FF00FF)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-FFE4C4?style=for-the-badge&logo=androidstudio&logoColor=2F4F4F)
+![Miro](https://img.shields.io/badge/-Miro-FFE4C4?style=for-the-badge&logo=miro&logoColor=090909)
+![DevTools](https://img.shields.io/badge/-DevTools-FFE4C4?style=for-the-badge&logo=DevTools&logoColor=090909)
+![Draw.io](https://img.shields.io/badge/-Draw.io-FFE4C4?style=for-the-badge&logo=diagrams.net&logoColor=D2691E)
+![JIRA](https://img.shields.io/badge/-JIRA-FFE4C4?style=for-the-badge&logo=jira&logoColor=00008B)
+![Notion](https://img.shields.io/badge/-Notion-FFE4C4?style=for-the-badge&logo=Notion&logoColor=000000)
+![Confluence](https://img.shields.io/badge/-Confluence-FFE4C4?style=for-the-badge&logo=Confluence&logoColor=00008B)
+![Xmind](https://img.shields.io/badge/-Xmind-FFE4C4?style=for-the-badge&logo=Xmind&logoColor=00008B)
+![GitHub](https://img.shields.io/badge/-GitHub-FFE4C4?style=for-the-badge&logo=GitHub&logoColor=000000)
+![SQL](https://img.shields.io/badge/-SQL-FFE4C4?style=for-the-badge&logo=postgreSQL&logoColor=000000)
+![Slack](https://img.shields.io/badge/-Slack-FFE4C4?style=for-the-badge&logo=Slack&logoColor=800080)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Testing Documentation 
+---
+
+- Test Cases for Web 
+- Test Cases for Mobile Applications
+- Checklists
+- Checklists for API
+- Bug Reports
+- SQL Queries
+
+
+
+
