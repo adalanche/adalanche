@@ -32,7 +32,7 @@
 - [Checklists](https://github.com/adalanche/Checklists)
 - [Checklists for API](https://github.com/adalanche/Checklists_for_API)
 - [Bug Reports](https://github.com/adalanche/Bug_Reports)
-- [SQL Queries]()
+- [SQL Queries](https://github.com/adalanche/SQL_Queries)
 
 
 
