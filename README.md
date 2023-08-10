@@ -28,7 +28,7 @@
 ---
 
 - [Test Cases for Web](https://github.com/adalanche/Test_Cases_for_WEB)
-- Test Cases for Mobile Applications
+- [Test Cases for Mobile Applications](https://github.com/adalanche/Test_Cases_for_Mobile_App/blob/main/README.md)
 - Checklists
 - Checklists for API
 - Bug Reports
