@@ -9,20 +9,20 @@
 
 ### Tools 🛠️
 ---
-![Postman](https://img.shields.io/badge/-Postman-FFE4C4?style=for-the-badge&logo=postman&logoColor=23F7DF1E)
-![Figma](https://img.shields.io/badge/-Figma-FFE4C4?style=for-the-badge&logo=figma&logoColor=FF00FF)
-![Charles Proxy](https://img.shields.io/badge/-Charles-FFE4C4?style=for-the-badge&logo=charles&logoColor=FF00FF)
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-FFE4C4?style=for-the-badge&logo=androidstudio&logoColor=2F4F4F)
-![Miro](https://img.shields.io/badge/-Miro-FFE4C4?style=for-the-badge&logo=miro&logoColor=090909)
-![DevTools](https://img.shields.io/badge/-DevTools-FFE4C4?style=for-the-badge&logo=DevTools&logoColor=090909)
-![Draw.io](https://img.shields.io/badge/-Draw.io-FFE4C4?style=for-the-badge&logo=diagrams.net&logoColor=D2691E)
-![JIRA](https://img.shields.io/badge/-JIRA-FFE4C4?style=for-the-badge&logo=jira&logoColor=00008B)
-![Notion](https://img.shields.io/badge/-Notion-FFE4C4?style=for-the-badge&logo=Notion&logoColor=000000)
-![Confluence](https://img.shields.io/badge/-Confluence-FFE4C4?style=for-the-badge&logo=Confluence&logoColor=00008B)
-![Xmind](https://img.shields.io/badge/-Xmind-FFE4C4?style=for-the-badge&logo=Xmind&logoColor=00008B)
-![GitHub](https://img.shields.io/badge/-GitHub-FFE4C4?style=for-the-badge&logo=GitHub&logoColor=000000)
-![SQL](https://img.shields.io/badge/-SQL-FFE4C4?style=for-the-badge&logo=postgreSQL&logoColor=000000)
-![Slack](https://img.shields.io/badge/-Slack-FFE4C4?style=for-the-badge&logo=Slack&logoColor=800080)
+![Postman](https://img.shields.io/badge/-Postman-FFFFFF?style=for-the-badge&logo=postman&logoColor=23F7DF1E)
+![Figma](https://img.shields.io/badge/-Figma-FFFFFF?style=for-the-badge&logo=figma&logoColor=FF00FF)
+![Charles Proxy](https://img.shields.io/badge/-Charles-FFFFFF?style=for-the-badge&logo=charles&logoColor=FF00FF)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-FFFFFF?style=for-the-badge&logo=androidstudio&logoColor=2F4F4F)
+![Miro](https://img.shields.io/badge/-Miro-FFFFFF?style=for-the-badge&logo=miro&logoColor=090909)
+![DevTools](https://img.shields.io/badge/-DevTools-FFFFFF?style=for-the-badge&logo=DevTools&logoColor=090909)
+![Draw.io](https://img.shields.io/badge/-Draw.io-FFFFFF?style=for-the-badge&logo=diagrams.net&logoColor=D2691E)
+![JIRA](https://img.shields.io/badge/-JIRA-FFFFFF?style=for-the-badge&logo=jira&logoColor=00008B)
+![Notion](https://img.shields.io/badge/-Notion-FFFFFF?style=for-the-badge&logo=Notion&logoColor=000000)
+![Confluence](https://img.shields.io/badge/-Confluence-FFFFFF?style=for-the-badge&logo=Confluence&logoColor=00008B)
+![Xmind](https://img.shields.io/badge/-Xmind-FFFFFF?style=for-the-badge&logo=Xmind&logoColor=00008B)
+![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=for-the-badge&logo=GitHub&logoColor=000000)
+![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=postgreSQL&logoColor=000000)
+![Slack](https://img.shields.io/badge/-Slack-FFFFFF?style=for-the-badge&logo=Slack&logoColor=800080)
 
 ### Testing Documentation 📑📎
 ---
