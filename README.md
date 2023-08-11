@@ -23,6 +23,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-FFFFFF?style=for-the-badge&logo=GitHub&logoColor=000000)
 ![SQL](https://img.shields.io/badge/-SQL-FFFFFF?style=for-the-badge&logo=postgreSQL&logoColor=000000)
 ![Slack](https://img.shields.io/badge/-Slack-FFFFFF?style=for-the-badge&logo=Slack&logoColor=800080)
+![Zoom](https://img.shields.io/badge/-zoom-FFFFFF?style=for-the-badge&logo=zoom&logoColor=800080)
 
 ### Testing Documentation 📑
 ---
